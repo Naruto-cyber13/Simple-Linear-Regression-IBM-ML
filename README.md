@@ -38,6 +38,7 @@ Using a basic machine learning pipeline, this project:
 ```bash
 git clone https://github.com/Naruto-cyber13/Simple-Linear-Regression-IBM-ML.git
 cd Simple-Linear-Regression-IBM-ML
+```
 ### 2. **Install dependencies**
 
 pip install -r requirements.txt
