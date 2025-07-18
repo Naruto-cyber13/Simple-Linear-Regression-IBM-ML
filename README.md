@@ -39,14 +39,15 @@ Using a basic machine learning pipeline, this project:
 git clone https://github.com/Naruto-cyber13/Simple-Linear-Regression-IBM-ML.git
 cd Simple-Linear-Regression-IBM-ML
 ```
-### 2. **Install dependencies**
-
+### 2. Install dependencies
+```
 pip install -r requirements.txt
-
+```
 ### 3. Run the model
+```
 
 jupyter notebook Simple-Linear-Regression-v1.ipynb
-
+```
 ---
 
 ### ✅ Bonus Tip: Enable GitHub Notebook Viewer
