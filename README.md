@@ -6,7 +6,8 @@ This project demonstrates how to build and evaluate a simple linear regression m
 ![Made with IBM Course](https://img.shields.io/badge/Made%20with-IBM%20ML%20Course-blue?logo=ibm&logoColor=white)
 
 ---
-📚 Acknowledgments
+📚 Acknowledgments:
+
 This project was developed as part of my learning from the IBM Machine Learning with Python course offered by IBM on Coursera.
 
 The course provided a strong foundation in supervised learning, model evaluation, and scikit-learn workflows — key concepts used in this project.
